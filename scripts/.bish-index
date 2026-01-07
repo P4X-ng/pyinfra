@@ -1,0 +1,17 @@
+./generate_api_docs.py
+./make_github_release.py
+./generate_operations_docs.py
+./dev-test.sh
+./release.sh
+./generate_redirect_pages.py
+./generate_facts_docs.py
+./generate_connectors_docs.py
+./cleanup_words.py
+./pyinfra-complete.sh
+./dev-lint.sh
+./__init__.py
+./spellcheck.sh
+./build-public-docs.sh
+./generate_next_version.py
+./dev-test-e2e.sh
+./generate_arguments_doc.py

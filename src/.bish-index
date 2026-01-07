@@ -1,0 +1,16 @@
+./pyinfra_cli/util.py
+./pyinfra_cli/exceptions.py
+./pyinfra_cli/virtualenv.py
+./pyinfra_cli/inventory.py
+./pyinfra_cli/__init__.py
+./pyinfra_cli/main.py
+./pyinfra_cli/prints.py
+./pyinfra_cli/cli.py
+./pyinfra_cli/log.py
+./pyinfra_cli/commands.py
+./pyinfra/__main__.py
+./pyinfra/local.py
+./pyinfra/__init__.py
+./pyinfra/context.py
+./pyinfra/progress.py
+./pyinfra/version.py
